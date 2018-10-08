@@ -1,0 +1,21 @@
+{
+  "name": "next_read_cert",
+  "version": "1.0.0",
+  "description": "POC of nextjs and reading a .cer file",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "get-random-values": "~1.2.0",
+    "next": "~7.0.1",
+    "prop-types": "~15.6.2",
+    "react": "~16.5.2",
+    "react-dom": "~16.5.2"
+  }
+}
